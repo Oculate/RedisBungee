@@ -1,4 +1,4 @@
-# RedisBungee
+# RedisBungee[![Travis Status](https://travis-ci.org/Oculate/RedisBungee.svg?branch=master)](https://travis-ci.org/Oculate/RedisBungee)
 
 RedisBungee bridges [Redis](http://redis.io) and BungeeCord together. This is the solution deployed on [The Chunk](http://thechunk.net) to make sure our multi-Bungee setup flows smoothly together.
 
